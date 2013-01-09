@@ -2,6 +2,7 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="lib/cglib-nodep-2.2.jar"/>
+	<classpathentry kind="lib" path="E:/Repo/cglib/cglib-nodep/2.1/cglib-nodep-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.6.0_38/lib/sa-jdi.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
